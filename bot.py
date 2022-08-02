@@ -12,7 +12,7 @@ from datetime import date, datetime
 from vkbottle.api import API
 import time, math
 
-bot = Bot(token="4c67c62573d20bc73ae4b2f442e116e6edac9642c84077af20ea4850ab95621611507dd99a1c68444e7fc")
+bot = Bot(token="")
 
 # db initialize
 db = sqlite3.connect("data.db")
